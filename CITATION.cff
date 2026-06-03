@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+title: NeuroTraffic Lab
+message: "If you use NeuroTraffic Lab in a project or paper, please cite it."
+type: software
+authors:
+  - name: zichao-lin-517
+version: 0.1.0
+license: MIT
+keywords:
+  - intelligent transportation systems
+  - traffic signal control
+  - traffic simulation
+  - graph neural networks
+  - digital twin

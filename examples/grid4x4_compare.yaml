@@ -1,0 +1,16 @@
+network:
+  rows: 4
+  cols: 4
+demand:
+  base_rate: 3.0
+  peak_rate: 14.0
+controller:
+  fixed_time_cycle: 8
+experiment:
+  horizon: 180
+  seed: 7
+  controllers:
+    - fixed_time
+    - max_pressure
+  output_dir: runs/grid4x4_compare
+
