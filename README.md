@@ -1,5 +1,6 @@
 # NeuroTraffic Lab
 
+[![CI](https://github.com/zichao-lin-517/neurotraffic-lab/actions/workflows/ci.yml/badge.svg)](https://github.com/zichao-lin-517/neurotraffic-lab/actions/workflows/ci.yml)
 [![Python](https://img.shields.io/badge/python-3.10%2B-blue.svg)](pyproject.toml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
@@ -7,6 +8,8 @@ NeuroTraffic Lab is a Python framework for intelligent transportation system
 experiments. It provides a lightweight urban traffic digital twin, traffic
 signal control benchmarks, reproducible metrics, and graph time-series
 interfaces for future spatio-temporal forecasting models.
+
+Repository: [github.com/zichao-lin-517/neurotraffic-lab](https://github.com/zichao-lin-517/neurotraffic-lab)
 
 ## Background
 

@@ -49,6 +49,12 @@ viz = [
 [project.scripts]
 neurotraffic = "neurotraffic.cli:main"
 
+[project.urls]
+Homepage = "https://github.com/zichao-lin-517/neurotraffic-lab"
+Repository = "https://github.com/zichao-lin-517/neurotraffic-lab"
+Issues = "https://github.com/zichao-lin-517/neurotraffic-lab/issues"
+Documentation = "https://github.com/zichao-lin-517/neurotraffic-lab/tree/main/docs"
+
 [tool.setuptools.packages.find]
 where = ["src"]
 
